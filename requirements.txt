@@ -1,0 +1,7 @@
+google-cloud-bigquery
+matplotlib
+pandas
+db-dtypes
+seaborn
+plotly
+os
