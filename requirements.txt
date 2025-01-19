@@ -4,4 +4,3 @@ pandas
 db-dtypes
 seaborn
 plotly
-os
