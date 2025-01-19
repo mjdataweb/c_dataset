@@ -10,6 +10,7 @@ __pycache__/
 venv/
 env/
 ENV/
+myenv/
 
 # Ignore data files
 *.csv
@@ -29,3 +30,6 @@ Thumbs.db
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Ignore specific files
+Consignes.pdf
